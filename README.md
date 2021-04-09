@@ -1,5 +1,5 @@
-Syntax highlighting for Sublime Text
-===================================
+Rhai Syntax Highlighting
+========================
 
 [![License](https://img.shields.io/github/license/rhaiscript/sublime-rhai)](https://github.com/rhaiscript/sublime-rhai/blob/master/LICENSE.md)
 [![Downloads Package Control](https://img.shields.io/packagecontrol/dt/Rhai%20Syntax%20Highlighting.svg)](https://packagecontrol.io/packages/Rhai%20Syntax%20Highlighting)
@@ -10,7 +10,7 @@ Syntax highlighting for Sublime Text
 [Rhai](https://rhai.rs) is an embedded scripting language and evaluation engine for Rust that gives
 a safe and easy way to add scripting to any application.
 
-This repo provides syntax highlighting for [Sublime Text](https://www.sublimetext.com).
+This package provides syntax highlighting of Rhai scripts for [Sublime Text](https://www.sublimetext.com).
 
 Screenshot
 ----------
