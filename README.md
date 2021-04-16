@@ -15,4 +15,4 @@ This package provides syntax highlighting of Rhai scripts for [Sublime Text](htt
 Screenshot
 ----------
 
-![Preview](https://github.com/rhaiscript/sublime-rhai/raw/master/sample.png)
+![Preview](https://raw.githubusercontent.com/rhaiscript/sublime-rhai/master/sample.png)
