@@ -209,6 +209,12 @@ contexts:
       scope: constant.language.boolean.true.rhai
     - match: \bfalse\b
       scope: constant.language.boolean.false.rhai
+  literal-language-namespace:
+    - match: '(?<!\:\:)\s*((global)\s*(\:\:))(?!<)'
+      captures:
+        1: meta.path.rhai
+        2: constant.language.namespace.global.rhai entity.name.namespace.rhai
+        3: punctuation.separator.namespace.rhai
   literal-language-variable:
     - match: \bthis\b
       scope: variable.language.this.rhai
@@ -232,6 +238,7 @@ contexts:
     - match: \b(import|export|as)\b
       scope: keyword.control.import.rhai
   literal-namespace:
+    - include: literal-language-namespace
     - match: '([_a-zA-Z]\w*)\s*(\:\:)(?!<)'
       scope: meta.path.rhai
       captures:
