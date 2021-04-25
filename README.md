@@ -2,8 +2,8 @@ Rhai Syntax Highlighting
 ========================
 
 [![License](https://img.shields.io/github/license/rhaiscript/sublime-rhai)](https://github.com/rhaiscript/sublime-rhai/blob/master/LICENSE.md)
-[![Package Control downloads](https://img.shields.io/packagecontrol/dt/Rhai.svg)](https://packagecontrol.io/packages/Rhai)
-[![Latest release](https://img.shields.io/github/release/rhaiscript/sublime-rhai.svg)](https://github.com/rhaiscript/sublime-rhai/releases/latest)
+[![Package Control downloads](https://img.shields.io/packagecontrol/dt/Rhai.svg?logo=sublime-text)](https://packagecontrol.io/packages/Rhai)
+[![Latest release](https://img.shields.io/github/release/rhaiscript/sublime-rhai.svg?logo=github)](https://github.com/rhaiscript/sublime-rhai/releases/latest)
 
 [![Rhai logo](https://rhai.rs/book/images/logo/rhai-banner-transparent-colour.png)](https://rhai.rs)
 
