@@ -401,5 +401,5 @@ contexts:
   support:
     - match: \b(print|debug|call|curry|eval|type_of|is_def_var|is_def_fn|is_shared)\b
       scope: support.function.rhai
-    - match: \b(var|static|begin|end|shared|each|then|goto|exit|unless|match|case|public|protected|new|use|with|module|package|super|thread|spawn|go|await|async|sync|yield|default|void|null|nil)\b
+    - match: \b(var|static|shared|goto|exit|match|case|public|protected|new|use|with|module|package|super|thread|spawn|go|await|async|sync|yield|default|void|null|nil)\b
       scope: invalid.illegal.keyword.rhai
